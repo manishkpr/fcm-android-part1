@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "852358684737",
+    "firebase_url": "https://manishkpr-fcm.firebaseio.com",
+    "project_id": "manishkpr-fcm",
+    "storage_bucket": "manishkpr-fcm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:852358684737:android:35d838dc9293855f",
+        "android_client_info": {
+          "package_name": "com.manishkpr_fcm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "852358684737-cerop3om83p63c2e54jvmffuk2cfh94h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdeVXe9yRsinrBRwUgMIZGhR4F-6SqMgY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
